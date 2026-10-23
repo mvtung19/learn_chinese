@@ -1,0 +1,1 @@
+Tạo web học thành ngữ số tiếng Trung (1, 3, 8, 9, 10) bằng sơ đồ tư duy kết hợp đố vui bóc tách chữ, giúp người học hiểu bản chất văn hóa của từng con số, tự suy luận nghĩa thay vì học vẹt và nhớ lâu hơn qua tương tác chủ động.

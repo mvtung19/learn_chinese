@@ -1,0 +1,1281 @@
+{
+  "numbers": [
+    {
+      "number": 1,
+      "hanzi": "一",
+      "pinyin": "yī",
+      "hanviet": "Nhất",
+      "keyword": "Khởi nguyên & Toàn vẹn",
+      "cultureOverview": "Trong triết học Đạo gia, 'Đạo sinh Nhất, Nhất sinh Nhị, Nhị sinh Tam, Tam sinh vạn vật'. Số 1 là cội nguồn của vạn vật vũ trụ, tượng trưng cho sự khởi đầu, duy nhất, tập trung cao độ và tính toàn vẹn tuyệt đối.",
+      "branches": [
+        {
+          "id": "branch_origin",
+          "name": "Khởi nguyên & Nhanh chóng",
+          "meaning": "Biểu thị sự khởi đầu, trong chớp mắt, dứt khoát hoặc chỉ một lần"
+        },
+        {
+          "id": "branch_focus",
+          "name": "Chuyên tâm & Đồng nhất",
+          "meaning": "Tập trung trọn vẹn tinh thần, sự thống nhất không phân tán"
+        },
+        {
+          "id": "branch_clarity",
+          "name": "Rõ ràng & Rành mạch",
+          "meaning": "Phân minh rành rẽ, tường tận thấu đáo"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "hanzi": "三",
+      "pinyin": "sān",
+      "hanviet": "Tam",
+      "keyword": "Vững chãi & Đa số",
+      "cultureOverview": "Số 3 trong quan niệm cổ đại không chỉ là con số cụ thể mà tượng trưng cho 'số nhiều' và 'sự cân bằng bền vững' (như ba chân đỉnh vạc, Tam tài: Thiên - Địa - Nhân). Số 3 thường chỉ sự lặp đi lặp lại nhiều lần hoặc trạng thái vững chắc khôn cùng.",
+      "branches": [
+        {
+          "id": "branch_plurality",
+          "name": "Số nhiều & Lặp lại nhiều lần",
+          "meaning": "Không chỉ là 3 lần, mà biểu thị sự suy xét hoặc diễn tiến nhiều lần"
+        },
+        {
+          "id": "branch_stability",
+          "name": "Cân bằng & Thế chân vạc",
+          "meaning": "Thế kiềng ba chân vững chãi, phân tranh ngang tài ngang sức"
+        },
+        {
+          "id": "branch_depth",
+          "name": "Sâu sắc & Triết lý nhân sinh",
+          "meaning": "Sự thấu triệt, cảm kích sâu xa trong đời người"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "hanzi": "八",
+      "pinyin": "bā",
+      "hanviet": "Bát",
+      "keyword": "Bát quái & Phát tài",
+      "cultureOverview": "Số 8 gắn liền với Bát quái trong Kinh Dịch, tượng trưng cho không gian bao la bốn phương tám hướng (tứ diện bát phương). Trong văn hóa thương gia, Bát (bā) đồng âm với Phát (fā - phát tài), biểu thị sự hanh thông, viên dung và năng lực biến hóa linh hoạt.",
+      "branches": [
+        {
+          "id": "branch_space",
+          "name": "Không gian rộng khắp",
+          "meaning": "Bốn phương tám hướng, lan tỏa khắp nơi không giới hạn"
+        },
+        {
+          "id": "branch_flexibility",
+          "name": "Linh hoạt & Tài năng trác tuyệt",
+          "meaning": "Sự thông tuệ, ứng biến đa diện hoặc tài hoa lỗi lạc"
+        },
+        {
+          "id": "branch_chaos",
+          "name": "Hỗn tạp & Phức tạp",
+          "meaning": "Các chiều hướng đan xen dẫn tới sự bừa bộn hoặc phức tạp"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "hanviet": "Cửu",
+      "keyword": "Trường cửu & Cực dương đỉnh cao",
+      "cultureOverview": "Số 9 là số dương lớn nhất trong dãy số đơn (cực dương), tượng trưng cho quyền lực tối thượng của bậc đế vương (Cửu ngũ chi tôn, Nhất ngôn cửu đỉnh). Đồng thời, 'Cửu' (九 - jiǔ) đồng âm với 'Cửu' (久 - jiǔ: dài lâu, trường thọ), mang ý nghĩa vô hạn, tột cùng và trường tồn mãi mãi.",
+      "branches": [
+        {
+          "id": "branch_sovereignty",
+          "name": "Vương quyền & Uy trọng tột đỉnh",
+          "meaning": "Sức nặng tối thượng, bảo vật trấn quốc, lời nói quyền uy"
+        },
+        {
+          "id": "branch_infinity",
+          "name": "Vô hạn & Cực đại",
+          "meaning": "Số lượng bao la bát ngát, dốc trọn toàn bộ sức lực"
+        },
+        {
+          "id": "branch_longevity",
+          "name": "Trường cửu & Sinh tử tột cùng",
+          "meaning": "Ranh giới mong manh giữa cái chết và sự sống lâu dài"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "hanzi": "十",
+      "pinyin": "shí",
+      "hanviet": "Thập",
+      "keyword": "Viên mãn & Trọn vẹn",
+      "cultureOverview": "Chữ Thập (十) gồm một nét ngang (đông tây) và một nét dọc (nam bắc), hội tụ đầy đủ bốn phương tám hướng và trung tâm. Số 10 đại diện cho chu kỳ tròn đầy, sự thập toàn thập mỹ, đạt đến độ hoàn hảo không tì vết hoặc mức độ cao nhất không thể vượt qua.",
+      "branches": [
+        {
+          "id": "branch_perfection",
+          "name": "Hoàn mỹ & Toàn diện",
+          "meaning": "Trọn vẹn mười phần không thiếu sót, tự tin tràn đầy"
+        },
+        {
+          "id": "branch_certainty",
+          "name": "Chắc chắn & Tỷ lệ tuyệt đối",
+          "meaning": "Nắm vững mười phần, khả năng thành công gần như hoàn toàn"
+        },
+        {
+          "id": "branch_time_depth",
+          "name": "Thời gian & Tình cảm bền chặt",
+          "meaning": "Sự tích lũy lâu dài theo năm tháng hoặc gắn kết ruột thịt"
+        }
+      ]
+    }
+  ],
+  "idioms": [
+    {
+      "id": "yi-xin-yi-yi",
+      "hanzi": "一心一意",
+      "pinyin": "yī xīn yī yì",
+      "hanviet": "Nhất tâm nhất ý",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_focus",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một, duy nhất"},
+        {"c": "心", "p": "xīn", "hv": "Tâm", "m": "Trái tim, tấm lòng"},
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một, thống nhất"},
+        {"c": "意", "p": "yì", "hv": "Ý", "m": "Ý chí, suy nghĩ"}
+      ],
+      "literal": "Một tấm lòng, một ý nghĩ.",
+      "meaning": "Hết lòng hết dạ, chuyên tâm toàn ý vào một việc, không hề phân tâm giao động.",
+      "culture": "Lặp lại chữ 'Nhất' (Một) nhằm nhấn mạnh sự thuần khiết, gom toàn bộ năng lượng tinh thần vào một đích đến duy nhất.",
+      "quiz": {
+        "question": "Thành ngữ '一心一意' (Nhất tâm nhất ý) thường dùng để miêu tả thái độ nào?",
+        "options": ["Toàn tâm toàn ý, không phân tâm", "Do dự suy đi tính lại", "Làm việc tắc trách qua loa", "Tự tin thái quá"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-mu-liao-ran",
+      "hanzi": "一目了然",
+      "pinyin": "yī mù liǎo rán",
+      "hanviet": "Nhất mục liễu nhiên",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_clarity",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một (lần)"},
+        {"c": "目", "p": "mù", "hv": "Mục", "m": "Mắt, ánh nhìn"},
+        {"c": "了", "p": "liǎo", "hv": "Liễu", "m": "Hiểu rõ, thấu suốt"},
+        {"c": "然", "p": "rán", "hv": "Nhiên", "m": "Rõ ràng như vậy"}
+      ],
+      "literal": "Một ánh mắt nhìn qua là hiểu rõ tường tận.",
+      "meaning": "Sự việc hoặc cách trình bày quá rành mạch, nhìn lướt qua là hiểu ngay.",
+      "culture": "Chữ 'Nhất' ở đây là đơn vị lượng từ cực tiểu (chỉ một cái nhìn thoáng qua) đối lập với sự thấu suốt toàn diện (Liễu nhiên).",
+      "quiz": {
+        "question": "'Nhất mục liễu nhiên' (一目了然) biểu thị điều gì?",
+        "options": ["Nhìn qua là hiểu ngay", "Mắt nhìn không rõ ràng", "Phải quan sát rất lâu", "Chỉ thấy được bề ngoài"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-zhi-ban-jie",
+      "hanzi": "一知半解",
+      "pinyin": "yī zhī bàn jiě",
+      "hanviet": "Nhất tri bán giải",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_clarity",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một (phần)"},
+        {"c": "知", "p": "zhī", "hv": "Tri", "m": "Biết"},
+        {"c": "半", "p": "bàn", "hv": "Bán", "m": "Một nửa"},
+        {"c": "解", "p": "jiě", "hv": "Giải", "m": "Hiểu, lý giải"}
+      ],
+      "literal": "Biết được một phần, hiểu được một nửa.",
+      "meaning": "Hiểu biết nông cạn, lõm bõm nửa vời, chưa thấu đáo ngọn ngành.",
+      "culture": "Đối ngẫu giữa 'Nhất' và 'Bán' tạo nên sự châm biếm sâu sắc về những người chỉ nắm bắt được mẩu vụn kiến thức nhưng tưởng mình đã tinh thông.",
+      "quiz": {
+        "question": "Thành ngữ '一知半解' khuyên ta điều gì trong học tập?",
+        "options": ["Không nên học vẹt, hiểu nửa vời", "Chỉ cần biết một nửa là đủ", "Học một hiểu mười", "Không cần học lý thuyết"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-ju-liang-de",
+      "hanzi": "一举两得",
+      "pinyin": "yī jǔ liǎng dé",
+      "hanviet": "Nhất cử lưỡng tiện",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_origin",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một lần"},
+        {"c": "举", "p": "jǔ", "hv": "Cử", "m": "Hành động, cử chỉ"},
+        {"c": "两", "p": "liǎng", "hv": "Lưỡng", "m": "Hai"},
+        {"c": "得", "p": "dé", "hv": "Đắc / Tiện", "m": "Đạt được, thu hoạch"}
+      ],
+      "literal": "Một lần hành động thu được hai điều lợi ích.",
+      "meaning": "Một công đôi việc, bỏ ra một phần công sức nhưng đạt gấp bội thành quả.",
+      "culture": "Triết lý tối ưu hóa hành động của người xưa, từ việc nhỏ tạo ra hiệu quả đòn bẩy lớn.",
+      "quiz": {
+        "question": "Thành ngữ tiếng Việt tương đương nhất với '一举两得' là gì?",
+        "options": ["Một công đôi việc", "Tham thì thâm", "Trước sau như một", "Tay làm hàm nhai"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-yan-ji-chu",
+      "hanzi": "一言既出",
+      "pinyin": "yī yán jì chū",
+      "hanviet": "Nhất ngôn ký xuất",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_focus",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một"},
+        {"c": "言", "p": "yán", "hv": "Ngôn", "m": "Lời nói"},
+        {"c": "既", "p": "jì", "hv": "Ký", "m": "Đã"},
+        {"c": "出", "p": "chū", "hv": "Xuất", "m": "Thốt ra"}
+      ],
+      "literal": "Một lời đã thốt ra khỏi miệng (tứ mã nan truy).",
+      "meaning": "Lời hứa danh dự có giá trị ngàn vàng, tuyệt đối không nuốt lời thay đổi.",
+      "culture": "Đề cao chữ Tín của người quân tử: chỉ cần 'Một' lời đã định thì bốn ngựa kéo cũng không lấy lại được.",
+      "quiz": {
+        "question": "'Nhất ngôn ký xuất' đi kèm vế sau nào thể hiện chữ tín?",
+        "options": ["Tứ mã nan truy", "Vạn sự hanh thông", "Bách phát bách trúng", "Thiên lý mã"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-qing-er-chu",
+      "hanzi": "一清二楚",
+      "pinyin": "yī qīng èr chǔ",
+      "hanviet": "Nhất thanh nhị sở",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_clarity",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Thứ nhất"},
+        {"c": "清", "p": "qīng", "hv": "Thanh", "m": "Trong trẻo, rõ"},
+        {"c": "二", "p": "èr", "hv": "Nhị", "m": "Thứ hai"},
+        {"c": "楚", "p": "chǔ", "hv": "Sở", "m": "Sáng sủa, rành mạch"}
+      ],
+      "literal": "Một là thanh bạch, hai là rành mạch tỏ tường.",
+      "meaning": "Vô cùng minh bạch, rõ ràng tới từng chân tơ kẽ tóc, không chút mập mờ.",
+      "culture": "Mượn cách đếm thứ tự 1-2 để thể hiện sự khúc chiết, phân minh lớp lang của sự việc.",
+      "quiz": {
+        "question": "Thành ngữ '一清二楚' dùng để khen ngợi điều gì?",
+        "options": ["Sự rõ ràng, sáng tỏ rành mạch", "Món ăn ngon miệng", "Nước hồ trong vắt", "Thời tiết mát mẻ"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-mu-yi-yang",
+      "hanzi": "一模一样",
+      "pinyin": "yī mú yī yàng",
+      "hanviet": "Nhất mô nhất dạng",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_focus",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Chung một"},
+        {"c": "模", "p": "mú", "hv": "Mô", "m": "Khuôn đúc mẫu"},
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Chung một"},
+        {"c": "样", "p": "yàng", "hv": "Dạng", "m": "Hình dáng, kiểu"}
+      ],
+      "literal": "Cùng chung một khuôn đúc, cùng một hình dạng.",
+      "meaning": "Giống hệt nhau như hai giọt nước, không có chút khác biệt.",
+      "culture": "Xuất phát từ kỹ nghệ đúc đồng và làm gốm cổ đại, vật từ một khuôn ắt giống hệt nhau.",
+      "quiz": {
+        "question": "Từ '模' trong '一模一样' có nghĩa gốc là gì?",
+        "options": ["Khuôn mẫu đúc đồ vật", "Mô phỏng động vật", "Mơ hồ không rõ", "Mẫu số toán học"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-ming-jing-ren",
+      "hanzi": "一鸣惊人",
+      "pinyin": "yī míng jīng rén",
+      "hanviet": "Nhất minh kinh nhân",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_origin",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một lần"},
+        {"c": "鸣", "p": "míng", "hv": "Minh", "m": "Tiếng chim hót vang"},
+        {"c": "惊", "p": "jīng", "hv": "Kinh", "m": "Kinh ngạc, sửng sốt"},
+        {"c": "人", "p": "rén", "hv": "Nhân", "m": "Người đời"}
+      ],
+      "literal": "Một tiếng hót cất lên làm kinh ngạc tất cả mọi người.",
+      "meaning": "Bình thường âm thầm tích lũy, khi thể hiện tài năng lập tức làm nên kỳ tích chấn động.",
+      "culture": "Điển cố vua Sở Trang Vương ba năm không ban lệnh, nhưng khi hành động thì lập nên nghiệp bá.",
+      "quiz": {
+        "question": "'Nhất minh kinh nhân' ví von về đối tượng nào?",
+        "options": ["Người âm thầm tích lũy rồi bùng nổ tài năng", "Người hay khoe khoang ồn ào", "Người thích ca hát", "Bậc đế vương bạo ngược"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-fan-feng-shun",
+      "hanzi": "一帆风顺",
+      "pinyin": "yī fān fēng shùn",
+      "hanviet": "Nhất phàm phong thuận",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_origin",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một cánh"},
+        {"c": "帆", "p": "fān", "hv": "Phàm", "m": "Cánh buồm"},
+        {"c": "风", "p": "fēng", "hv": "Phong", "m": "Gió"},
+        {"c": "顺", "p": "shùn", "hv": "Thuận", "m": "Xuôi chiều, thuận lợi"}
+      ],
+      "literal": "Một cánh buồm đón gió xuôi chèo mát mái.",
+      "meaning": "Mọi việc hanh thông suôn sẻ từ đầu chí cuối, không gặp bất cứ trở ngại hiểm nguy nào.",
+      "culture": "Lời chúc phúc phổ biến bậc nhất trong văn hóa Á Đông dành cho người đi xa hoặc bắt đầu sự nghiệp kinh doanh.",
+      "quiz": {
+        "question": "Thành ngữ '一帆风顺' là lời chúc phúc biểu đạt điều gì?",
+        "options": ["Mọi sự thuận lợi, may mắn trọn vẹn", "Chúc đi biển bắt được nhiều cá", "Chúc gia đình đông con", "Chúc học hành đỗ đạt"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-fen-wei-er",
+      "hanzi": "一分为二",
+      "pinyin": "yī fēn wéi èr",
+      "hanviet": "Nhất phân vi nhị",
+      "numbers": [1],
+      "primaryNumber": 1,
+      "branchId": "branch_clarity",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một chỉnh thể"},
+        {"c": "分", "p": "fēn", "hv": "Phân", "m": "Chia tách"},
+        {"c": "为", "p": "wéi", "hv": "Vi", "m": "Thành"},
+        {"c": "二", "p": "èr", "hv": "Nhị", "m": "Hai mặt đối lập"}
+      ],
+      "literal": "Một chỉnh thể phân chia thành hai phương diện.",
+      "meaning": "Cái nhìn biện chứng toàn diện: sự vật luôn tồn tại mặt tốt và mặt xấu, ưu điểm và nhược điểm.",
+      "culture": "Quan niệm triết học Âm - Dương song hành: vạn vật khởi sinh từ Thái Cực (Một) phân hóa thành Lưỡng Nghi (Hai).",
+      "quiz": {
+        "question": "Phương pháp tư duy '一分为二' giúp chúng ta tránh điều gì?",
+        "options": ["Nhìn nhận phiến diện một chiều", "Chia sẻ công việc cho người khác", "Tập trung vào mục tiêu", "Làm việc quá cẩn thận"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-si-er-xing",
+      "hanzi": "三思而行",
+      "pinyin": "sān sī ér xíng",
+      "hanviet": "Tam tư nhi hành",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_plurality",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba lần (nhiều lần)"},
+        {"c": "思", "p": "sī", "hv": "Tư", "m": "Suy nghĩ, cân nhắc"},
+        {"c": "而", "p": "ér", "hv": "Nhi", "m": "Rồi sau đó mới"},
+        {"c": "行", "p": "xíng", "hv": "Hành", "m": "Hành động"}
+      ],
+      "literal": "Nghĩ kỹ ba lần rồi hãy bắt tay hành động.",
+      "meaning": "Hành sự cẩn trọng chu đáo, cân nhắc trước sau lợi hại kỹ càng rồi mới quyết định.",
+      "culture": "Xuất phát từ Luận Ngữ: Khổng Tử nhắc nhở học trò phải suy nghĩ chín chắn nhưng tránh do dự quá đà làm lỡ thời cơ.",
+      "quiz": {
+        "question": "'Tam' trong 'Tam tư nhi hành' mang ý nghĩa gì?",
+        "options": ["Nhiều lần, suy nghĩ chín chắn", "Đúng 3 giây", "Ba người cùng nghĩ", "Nghĩ vào buổi chiều"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-ren-tong-xing",
+      "hanzi": "三人同行",
+      "pinyin": "sān rén tóng xíng",
+      "hanviet": "Tam nhân đồng hành",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_plurality",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba (nhiều người)"},
+        {"c": "人", "p": "rén", "hv": "Nhân", "m": "Người"},
+        {"c": "同", "p": "tóng", "hv": "Đồng", "m": "Cùng nhau"},
+        {"c": "行", "p": "xíng", "hv": "Hành", "m": "Bước đi"}
+      ],
+      "literal": "Ba người cùng bước đi trên một con đường.",
+      "meaning": "Trong một tập thể luôn có người sở hữu ưu điểm đáng để ta học hỏi trau dồi (Tất hữu ngã sư).",
+      "culture": "Bài học đức khiêm tốn của Nho gia: ai ai cũng có sở trường, học người thiện để noi theo, thấy điều dở để tự sửa mình.",
+      "quiz": {
+        "question": "Câu nói nổi tiếng của Khổng Tử bắt đầu bằng '三人同行...' mang ý gì?",
+        "options": ["Ắt có người làm thầy ta, khuyên khiêm tốn học hỏi", "Đi ba người sẽ nhanh hơn", "Không nên kết giao nhiều bạn bè", "Cần có người chỉ huy"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-zu-ding-li",
+      "hanzi": "三足鼎立",
+      "pinyin": "sān zú dǐng lì",
+      "hanviet": "Tam túc đỉnh lập",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_stability",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba"},
+        {"c": "足", "p": "zú", "hv": "Túc", "m": "Chân"},
+        {"c": "鼎", "p": "dǐng", "hv": "Đỉnh", "m": "Chiếc vạc cổ"},
+        {"c": "立", "p": "lì", "hv": "Lập", "m": "Đứng vững"}
+      ],
+      "literal": "Ba chân của chiếc đỉnh đồng chống đỡ đứng vững vàng.",
+      "meaning": "Thế cân bằng kiềm tỏa lẫn nhau giữa ba thế lực đối trọng (như thời Tam Quốc: Ngụy - Thục - Ngô).",
+      "culture": "Đỉnh là bảo vật tượng trưng cho thiên hạ. Ba chân đỉnh là cấu trúc hình học kiên cố nhất, không bao giờ ngã đổ.",
+      "quiz": {
+        "question": "Thành ngữ 'Tam túc đỉnh lập' thường dùng trong hoàn cảnh nào?",
+        "options": ["Cục diện 3 thế lực kiềm chế cân bằng lẫn nhau", "Ba người bạn thân thiết", "Cái nồi nấu ăn ba chân", "Một người làm ba công việc"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-xin-er-yi",
+      "hanzi": "三心二意",
+      "pinyin": "sān xīn èr yì",
+      "hanviet": "Tam tâm nhị ý",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_plurality",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba"},
+        {"c": "心", "p": "xīn", "hv": "Tâm", "m": "Trái tim, tâm trí"},
+        {"c": "二", "p": "èr", "hv": "Nhị", "m": "Hai"},
+        {"c": "意", "p": "yì", "hv": "Ý", "m": "Ý định, phương hướng"}
+      ],
+      "literal": "Ba tấm lòng, hai ý nghĩ vơ vẩn.",
+      "meaning": "Tư tưởng phân tán, đứng núi này trông núi nọ, không kiên định theo đuổi một mục tiêu.",
+      "culture": "Số 3 và 2 được kết hợp để biểu thị sự xáo trộn, trái ngược hoàn toàn với '一心一意' (Nhất tâm nhất ý).",
+      "quiz": {
+        "question": "Thành ngữ nào là trái nghĩa trực tiếp với '三心二意'?",
+        "options": ["一心一意 (Nhất tâm nhất ý)", "三顾茅庐 (Tam cố thảo lư)", "一举两得 (Nhất cử lưỡng tiện)", "乱七八糟 (Loạn thất bát tao)"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-gu-mao-lu",
+      "hanzi": "三顾茅庐",
+      "pinyin": "sān gù máo lú",
+      "hanviet": "Tam cố thảo lư",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_depth",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba lần"},
+        {"c": "顾", "p": "gù", "hv": "Cố", "m": "Thăm viếng, đoái hoài"},
+        {"c": "茅", "p": "máo", "hv": "Thảo", "m": "Cỏ tranh"},
+        {"c": "庐", "p": "lú", "hv": "Lư", "m": "Nhà lều tranh"}
+      ],
+      "literal": "Ba lần đích thân đến tận căn lều cỏ để bái kiến.",
+      "meaning": "Thành tâm thành ý, hạ mình cầu hiền tài không quản công lao nhẫn nại.",
+      "culture": "Điển tích Lưu Bị ba lần vượt tuyết giá đến Ngọa Long Cương để mời Gia Cát Lượng xuống núi giúp dựng cơ nghiệp.",
+      "quiz": {
+        "question": "Điển tích 'Tam cố thảo lư' nói về ai chiêu mộ ai?",
+        "options": ["Lưu Bị mời Gia Cát Lượng", "Tào Tháo mời Quan Vũ", "Tôn Quyền mời Chu Du", "Lưu Bang mời Trương Lương"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-sheng-you-xing",
+      "hanzi": "三生有幸",
+      "pinyin": "sān shēng yǒu xìng",
+      "hanviet": "Tam sinh hữu hạnh",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_depth",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba"},
+        {"c": "生", "p": "shēng", "hv": "Sinh", "m": "Kiếp sống luân hồi"},
+        {"c": "有", "p": "yǒu", "hv": "Hữu", "m": "Có được"},
+        {"c": "幸", "p": "xìng", "hv": "Hạnh", "m": "May mắn, phúc phận"}
+      ],
+      "literal": "May mắn tích tụ từ ba kiếp luân hồi mới có được.",
+      "meaning": "Lời cảm thán vô cùng vinh dự và may mắn tột bực khi được gặp gỡ hoặc kết giao tri kỷ.",
+      "culture": "Gốc gác Phật giáo (Tam sinh: tiền sinh, kim sinh, lai sinh) hòa quyện triết lý nhân duyên tiền định.",
+      "quiz": {
+        "question": "'Tam sinh' trong quan niệm cổ đại gồm những kiếp nào?",
+        "options": ["Kiếp trước, kiếp này, kiếp sau", "Ba năm đầu đời", "Ba thế hệ trong gia đình", "Sinh, lão, bệnh"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "chui-xian-san-chi",
+      "hanzi": "垂涎三尺",
+      "pinyin": "chuí xián sān chǐ",
+      "hanviet": "Thùy diên tam xích",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_plurality",
+      "chars": [
+        {"c": "垂", "p": "chuí", "hv": "Thùy", "m": "Chảy rủ xuống"},
+        {"c": "涎", "p": "xián", "hv": "Diên", "m": "Nước bọt, dãi"},
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba"},
+        {"c": "尺", "p": "chǐ", "hv": "Xích", "m": "Thước đo (cổ)"}
+      ],
+      "literal": "Thèm nhỏ nước dãi dài đến ba thước.",
+      "meaning": "Thèm muốn tột độ trước của ngon vật lạ hoặc tham lam thèm khát danh lợi vật chất.",
+      "culture": "Biện pháp phóng đại văn học kinh điển: 'Ba thước' biểu thị chiều dài vô lý để lột tả lòng ham muốn mãnh liệt.",
+      "quiz": {
+        "question": "Thành ngữ '垂涎三尺' dùng nghệ thuật tu từ gì?",
+        "options": ["Phóng đại khoa trương", "Ẩn dụ so sánh", "Nhân hóa", "Điệp ngữ"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "ru-mu-san-fen",
+      "hanzi": "入木三分",
+      "pinyin": "rù mù sān fēn",
+      "hanviet": "Nhập mộc tam phân",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_depth",
+      "chars": [
+        {"c": "入", "p": "rù", "hv": "Nhập", "m": "Thấm vào, lún sâu"},
+        {"c": "木", "p": "mù", "hv": "Mộc", "m": "Gỗ"},
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba"},
+        {"c": "分", "p": "fēn", "hv": "Phân", "m": "Phân (đơn vị đo độ dày)"}
+      ],
+      "literal": "Mực ngấm sâu vào ván gỗ đến ba phân.",
+      "meaning": "Nét bút thư pháp đầy nội lực, hoặc bài viết, nhận định sắc sảo sâu sắc đến tận cốt lõi.",
+      "culture": "Điển cố thư thánh Vương Hy Chi viết chữ trên ván gỗ, người thợ mộc bào bỏ lớp mặt thấy mực ngấm sâu tới 3 phân.",
+      "quiz": {
+        "question": "Nguồn gốc của thành ngữ 'Nhập mộc tam phân' gắn liền với môn nghệ thuật nào?",
+        "options": ["Thư pháp (viết chữ đẹp)", "Điêu khắc tượng gỗ", "Võ thuật kungfu", "Hội họa thủy mặc"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yue-fa-san-zhang",
+      "hanzi": "约法三章",
+      "pinyin": "yuē fǎ sān zhāng",
+      "hanviet": "Ước pháp tam chương",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_stability",
+      "chars": [
+        {"c": "约", "p": "yuē", "hv": "Ước", "m": "Giao ước, định ra"},
+        {"c": "法", "p": "fǎ", "hv": "Pháp", "m": "Luật lệ"},
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba"},
+        {"c": "章", "p": "zhāng", "hv": "Chương", "m": "Điều khoản"}
+      ],
+      "literal": "Giao ước rõ ràng chỉ vỏn vẹn ba điều luật.",
+      "meaning": "Đưa ra các quy tắc ngắn gọn, súc tích và dứt khoát trước khi bắt đầu hợp tác.",
+      "culture": "Lưu Bang khi vào Hàm Dương đã hủy bỏ luật pháp hà khắc nhà Tần, chỉ ước định 3 điều: giết người phải đền mạng, làm người bị thương và trộm cắp phải chịu tội.",
+      "quiz": {
+        "question": "Ý nghĩa thực tiễn của 'Ước pháp tam chương' ngày nay là gì?",
+        "options": ["Thỏa thuận rõ ràng các điều khoản cơ bản", "Viết một cuốn sách dày ba chương", "Ban hành ba bộ luật hình sự", "Chỉ làm việc trong ba ngày"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-tian-da-yu",
+      "hanzi": "三天打鱼",
+      "pinyin": "sān tiān dǎ yú",
+      "hanviet": "Tam thiên đả ngư",
+      "numbers": [3],
+      "primaryNumber": 3,
+      "branchId": "branch_plurality",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba"},
+        {"c": "天", "p": "tiān", "hv": "Thiên", "m": "Ngày"},
+        {"c": "打", "p": "dǎ", "hv": "Đả", "m": "Đánh, giăng"},
+        {"c": "鱼", "p": "yú", "hv": "Ngư", "m": "Cá"}
+      ],
+      "literal": "Ba ngày đánh cá, hai ngày phơi lưới (三天打鱼，两天晒网).",
+      "meaning": "Làm việc bữa đực bữa cái, thiếu tính kiên trì nhẫn nại, khó thành đại sự.",
+      "culture": "Quan niệm dân gian về sự bền bỉ: làm ít nghỉ nhiều sẽ khiến thành quả bị tiêu tán.",
+      "quiz": {
+        "question": "Thành ngữ 'Tam thiên đả ngư, lưỡng thiên sái võng' phê phán đức tính nào?",
+        "options": ["Lười biếng, thiếu kiên trì", "Không biết bơi lội", "Lãng phí đồ ăn", "Keo kiệt bủn xỉn"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "si-mian-ba-fang",
+      "hanzi": "四面八方",
+      "pinyin": "sì miàn bā fāng",
+      "hanviet": "Tứ diện bát phương",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_space",
+      "chars": [
+        {"c": "四", "p": "sì", "hv": "Tứ", "m": "Bốn"},
+        {"c": "面", "p": "miàn", "hv": "Diện", "m": "Mặt (Đông Tây Nam Bắc)"},
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám"},
+        {"c": "方", "p": "fāng", "hv": "Phương", "m": "Phương vị (gồm cả 4 hướng phụ)"}
+      ],
+      "literal": "Bốn mặt tám phương vị của đất trời.",
+      "meaning": "Mọi ngóc ngách, khắp nơi trên toàn thế giới hội tụ về hoặc tỏa ra.",
+      "culture": "Mô hình không gian bát quái cổ đại, bao quát toàn vẹn vũ trụ từ tâm điểm mở rộng ra muôn trùng.",
+      "quiz": {
+        "question": "'Bát phương' trong quan niệm địa lý cổ đại gồm những hướng nào?",
+        "options": ["4 hướng chính + 4 hướng phụ chéo", "8 ngọn núi lớn nhất", "8 dòng sông lớn", "8 hành tinh"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "ba-mian-ling-long",
+      "hanzi": "八面玲珑",
+      "pinyin": "bā miàn líng lóng",
+      "hanviet": "Bát diện linh lung",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_flexibility",
+      "chars": [
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám mặt"},
+        {"c": "面", "p": "miàn", "hv": "Diện", "m": "Mặt, phía"},
+        {"c": "玲", "p": "líng", "hv": "Linh", "m": "Tiếng ngọc trong trẻo"},
+        {"c": "珑", "p": "lóng", "hv": "Lung", "m": "Sáng sủa, thông suốt"}
+      ],
+      "literal": "Tám mặt đều sáng sủa trong veo như ngọc quý.",
+      "meaning": "Người khéo ăn khéo nói, biết cách ứng xử hòa nhã với mọi tầng lớp trong xã hội.",
+      "culture": "Ban đầu tả kiến trúc lầu gác mở cửa cả 8 hướng đón gió mát, sau chuyển nghĩa sang sự khéo léo viên dung của con người.",
+      "quiz": {
+        "question": "Nghĩa tích cực của 'Bát diện linh lung' là gì?",
+        "options": ["Ứng xử khéo léo, chu toàn mọi mặt", "Ngôi nhà có 8 tầng lầu", "Chiếc chuông reo 8 tiếng", "Người biết 8 thứ tiếng"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "ba-xian-guo-hai",
+      "hanzi": "八仙过海",
+      "pinyin": "bā xiān guò hǎi",
+      "hanviet": "Bát tiên quá hải",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_flexibility",
+      "chars": [
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám"},
+        {"c": "仙", "p": "xiān", "hv": "Tiên", "m": "Vị tiên Đạo giáo"},
+        {"c": "过", "p": "guò", "hv": "Quá", "m": "Vượt qua"},
+        {"c": "海", "p": "hǎi", "hv": "Hải", "m": "Biển cả"}
+      ],
+      "literal": "Tám vị tiên cùng nhau vượt qua biển Đông (mỗi người một phép).",
+      "meaning": "Mỗi người tự phát huy thế mạnh và bản lĩnh riêng biệt để cùng hoàn thành mục tiêu chung.",
+      "culture": "Truyền thuyết Bát Tiên: qua biển không dùng thuyền mà mỗi vị ném bảo bối của mình xuống nước cưỡi lên lướt sóng.",
+      "quiz": {
+        "question": "Vế tiếp theo của '八仙过海' là gì?",
+        "options": ["各显神通 (Mỗi người trổ tài thần thông)", "风调雨顺", "万象更新", "心想事成"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "cai-gao-ba-dou",
+      "hanzi": "才高八斗",
+      "pinyin": "cái gāo bā dǒu",
+      "hanviet": "Tài cao bát đẩu",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_flexibility",
+      "chars": [
+        {"c": "才", "p": "cái", "hv": "Tài", "m": "Tài năng, tài hoa"},
+        {"c": "高", "p": "gāo", "hv": "Cao", "m": "Nhiều, vượt trội"},
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám"},
+        {"c": "斗", "p": "dǒu", "hv": "Đẩu", "m": "Đấu (đơn vị đong lường)"}
+      ],
+      "literal": "Tài hoa chiếm trọn tới tám đấu trong thiên hạ.",
+      "meaning": "Khen ngợi người có tài năng văn chương thi phú xuất chúng, kiến thức uyên bác phi thường.",
+      "culture": "Nhà thơ Tạ Linh Vận ca tụng Tào Thực: 'Thiên hạ có một thạch (10 đấu) tài hoa, riêng Tào Thực đã chiếm hết tám đấu'.",
+      "quiz": {
+        "question": "Thành ngữ 'Tài cao bát đẩu' nguyên gốc khen ngợi tài năng của ai?",
+        "options": ["Tào Thực (con Tào Tháo)", "Lý Bạch", "Tô Đông Pha", "Kinh Kha"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "ba-zi-mei-yi-pie",
+      "hanzi": "八字没一撇",
+      "pinyin": "bā zì méi yī piě",
+      "hanviet": "Bát tự một nhất phiệt",
+      "numbers": [8, 1],
+      "primaryNumber": 8,
+      "branchId": "branch_chaos",
+      "chars": [
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Chữ Bát"},
+        {"c": "字", "p": "zì", "hv": "Tự", "m": "Mặt chữ"},
+        {"c": "没", "p": "méi", "hv": "Một", "m": "Chưa có"},
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một (nét)"},
+        {"c": "撇", "p": "piě", "hv": "Phiệt", "m": "Nét phẩy (bên trái)"}
+      ],
+      "literal": "Viết chữ Bát (八) mà ngay cả nét phẩy đầu tiên còn chưa đặt bút.",
+      "meaning": "Sự việc còn quá mới mẻ, chưa có manh mối hay tiến triển cụ thể nào cả.",
+      "culture": "Chữ Bát gồm 2 nét (nét phẩy 撇 và nét mác 捺). Nét đầu tiên chưa có tức là chưa bắt đầu được gì.",
+      "quiz": {
+        "question": "'Bát tự một nhất phiệt' tương đương với câu nói khẩu ngữ nào của người Việt?",
+        "options": ["Chưa đâu vào đâu cả", "Nhanh như chớp", "Nói trước bước không qua", "Được voi đòi tiên"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "ban-jin-ba-liang",
+      "hanzi": "半斤八两",
+      "pinyin": "bàn jīn bā liǎng",
+      "hanviet": "Bán cân bát lạng",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_flexibility",
+      "chars": [
+        {"c": "半", "p": "bàn", "hv": "Bán", "m": "Một nửa"},
+        {"c": "斤", "p": "jīn", "hv": "Cân", "m": "Cân cổ"},
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám"},
+        {"c": "两", "p": "liǎng", "hv": "Lạng", "m": "Lạng cổ"}
+      ],
+      "literal": "Nửa cân cũng chính là tám lạng.",
+      "meaning": "Ngang tài ngang sức, hoặc hai bên xấu như nhau không ai hơn ai kém (kẻ tám lạng người nửa cân).",
+      "culture": "Theo hệ đo lường cổ Trung Quốc, 1 cân = 16 lạng. Do đó nửa cân chính xác là 8 lạng, hoàn toàn bằng nhau.",
+      "quiz": {
+        "question": "Vì sao 'nửa cân' lại tương đương 'tám lạng' trong thành ngữ này?",
+        "options": ["Hệ đo lường cổ quy ước 1 cân bằng 16 lạng", "Vì số 8 là số may mắn", "Do người bán hàng nói dối", "Quy đổi theo vàng bạc"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "ba-mian-wei-feng",
+      "hanzi": "八面威风",
+      "pinyin": "bā miàn wēi fēng",
+      "hanviet": "Bát diện uy phong",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_space",
+      "chars": [
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám"},
+        {"c": "面", "p": "miàn", "hv": "Diện", "m": "Hướng, phía"},
+        {"c": "威", "p": "wēi", "hv": "Uy", "m": "Uy nghi, oai vệ"},
+        {"c": "风", "p": "fēng", "hv": "Phong", "m": "Khí thế lẫm liệt"}
+      ],
+      "literal": "Khí thế uy nghiêm tỏa ra khắp tám phương trời.",
+      "meaning": "Tư thế oai phong lẫm liệt, khí chất hào hùng khiến người khác kính phục dè chừng.",
+      "culture": "Thường dùng để mô tả tướng lĩnh xuất trận hoặc bậc lãnh đạo có thần thái áp đảo quần chúng.",
+      "quiz": {
+        "question": "Thành ngữ '八面威风' miêu tả thần thái gì?",
+        "options": ["Oai phong lẫm liệt, uy nghi khí thế", "Dữ dằn đáng sợ", "Lúng túng sợ sệt", "Hiền lành chất phác"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "hu-shuo-ba-dao",
+      "hanzi": "胡说八道",
+      "pinyin": "hú shuō bā dào",
+      "hanviet": "Hồ thuyết bát đạo",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_chaos",
+      "chars": [
+        {"c": "胡", "p": "hú", "hv": "Hồ", "m": "Người phương Bắc (tùy tiện)"},
+        {"c": "说", "p": "shuō", "hv": "Thuyết", "m": "Nói"},
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám"},
+        {"c": "道", "p": "dào", "hv": "Đạo", "m": "Đạo lý, giáo lý"}
+      ],
+      "literal": "Nói năng càn quấy về tám điều đạo lý.",
+      "meaning": "Ăn nói xằng bậy, nói nhảm nhí không có căn cứ logic nào.",
+      "culture": "Có thuyết cho rằng bắt nguồn từ Bát chánh đạo trong Phật giáo: người không hiểu giáo lý mà giải thích bừa bãi.",
+      "quiz": {
+        "question": "Thành ngữ '胡说八道' thường dùng khi nào?",
+        "options": ["Khi muốn bác bỏ lời nói nhảm nhí, vô căn cứ", "Khi muốn khen ngợi bài diễn văn", "Khi bàn luận triết học", "Khi kể chuyện cười"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "luan-qi-ba-zao",
+      "hanzi": "乱七八糟",
+      "pinyin": "luàn qī bā zāo",
+      "hanviet": "Loạn thất bát tao",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_chaos",
+      "chars": [
+        {"c": "乱", "p": "luàn", "hv": "Loạn", "m": "Hỗn loạn, lộn xộn"},
+        {"c": "七", "p": "qī", "hv": "Thất", "m": "Số 7"},
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Số 8"},
+        {"c": "糟", "p": "zāo", "hv": "Tao", "m": "Bã rượu nát, hỏng bét"}
+      ],
+      "literal": "Lộn xộn số bảy số tám, rối tung như bã rượu nát.",
+      "meaning": "Vô cùng bừa bộn, lộn xộn, mất trật tự hoặc tình cảnh rối rắm thảm hại.",
+      "culture": "Điển tích lịch sử kết hợp 'Loạn 7 nước' thời Tây Hán và 'Loạn 8 vương gia' thời Tây Tấn.",
+      "quiz": {
+        "question": "Nguồn gốc lịch sử sâu xa của 'Loạn thất bát tao' liên quan đến sự kiện gì?",
+        "options": ["Loạn 7 nước thời Hán và Loạn 8 vương thời Tấn", "8 trận đánh trên sông", "7 lần bắt Mạnh Hoạch", "7 thi sĩ thời Ngụy"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "heng-qi-shu-ba",
+      "hanzi": "横七竖八",
+      "pinyin": "héng qī shù bā",
+      "hanviet": "Hoành thất thụ bát",
+      "numbers": [8],
+      "primaryNumber": 8,
+      "branchId": "branch_chaos",
+      "chars": [
+        {"c": "横", "p": "héng", "hv": "Hoành", "m": "Nằm ngang"},
+        {"c": "七", "p": "qī", "hv": "Thất", "m": "Bảy"},
+        {"c": "竖", "p": "shù", "hv": "Thụ", "m": "Đứng dọc"},
+        {"c": "八", "p": "bā", "hv": "Bát", "m": "Tám"}
+      ],
+      "literal": "Bảy cái ngả ngang, tám cái chổng dọc.",
+      "meaning": "Đồ vật ngổn ngang bừa bãi khắp sàn nhà, không theo bất kỳ hàng lối nào.",
+      "culture": "Mô tả hình ảnh trực quan đối lập giữa nét ngang (hoành) và nét dọc (thụ) đan xen vô trật tự.",
+      "quiz": {
+        "question": "'Hoành thất thụ bát' miêu tả trạng thái nào của đồ vật?",
+        "options": ["Nằm ngổn ngang lộn xộn ngang dọc", "Xếp ngay ngắn thẳng hàng", "Được đóng hộp cẩn thận", "Treo lơ lửng trên cao"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "jiu-niu-yi-mao",
+      "hanzi": "九牛一毛",
+      "pinyin": "jiǔ niú yī máo",
+      "hanviet": "Cửu ngưu nhất mao",
+      "numbers": [9, 1],
+      "primaryNumber": 9,
+      "branchId": "branch_infinity",
+      "chars": [
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín (số nhiều, cực đại)"},
+        {"c": "牛", "p": "niú", "hv": "Ngưu", "m": "Con trâu, bò"},
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một sợi"},
+        {"c": "毛", "p": "máo", "hv": "Mao", "m": "Sợi lông"}
+      ],
+      "literal": "Một sợi lông nhỏ nhoi nhổ ra từ chín con trâu to lớn.",
+      "meaning": "Chiếm một phần quá đỗi nhỏ bé, không đáng kể trong một tổng thể rộng lớn.",
+      "culture": "Trong 'Báo Nhậm An thư', sử gia Tư Mã Thiên viết cái chết của ông giữa thiên hạ chỉ như 'cửu ngưu nhất mao', nhưng ông chọn sống nhục để hoàn thành bộ Sử Ký vĩ đại.",
+      "quiz": {
+        "question": "Ai là tác giả của câu nói nổi tiếng tạo nên thành ngữ 'Cửu ngưu nhất mao'?",
+        "options": ["Sử gia Tư Mã Thiên", "Nhà thơ Đỗ Phủ", "Tướng quân Nhạc Phi", "Thủ tướng Gia Cát Lượng"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "jiu-si-yi-sheng",
+      "hanzi": "九死一生",
+      "pinyin": "jiǔ sǐ yī shēng",
+      "hanviet": "Cửu tử nhất sinh",
+      "numbers": [9, 1],
+      "primaryNumber": 9,
+      "branchId": "branch_longevity",
+      "chars": [
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín phần"},
+        {"c": "死", "p": "sǐ", "hv": "Tử", "m": "Cái chết"},
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một phần"},
+        {"c": "生", "p": "shēng", "hv": "Sinh", "m": "Sống sót"}
+      ],
+      "literal": "Chín phần cầm chắc cái chết, chỉ còn le lói một phần cơ hội sống.",
+      "meaning": "Tình thế vô cùng nguy hiểm nghìn cân treo sợi tóc, trải qua muôn vàn gian nan mới may mắn thoát nạn.",
+      "culture": "Khuất Nguyên trong thi phẩm 'Ly Tao': 'Dẫu chín lần chết ta cũng không hối tiếc' (Cửu tử kỳ do vị hối) vì lý tưởng cao đẹp.",
+      "quiz": {
+        "question": "Thành ngữ 'Cửu tử nhất sinh' nhấn mạnh điều gì?",
+        "options": ["Mức độ hiểm nghèo tột cùng nhưng may mắn sống sót", "Đã chết chín lần", "Gia đình có 9 người con", "Sống thọ đến chín mươi tuổi"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-yan-jiu-ding",
+      "hanzi": "一言九鼎",
+      "pinyin": "yī yán jiǔ dǐng",
+      "hanviet": "Nhất ngôn cửu đỉnh",
+      "numbers": [9, 1],
+      "primaryNumber": 9,
+      "branchId": "branch_sovereignty",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một"},
+        {"c": "言", "p": "yán", "hv": "Ngôn", "m": "Lời nói"},
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín"},
+        {"c": "鼎", "p": "dǐng", "hv": "Đỉnh", "m": "Đỉnh đồng bảo vật"}
+      ],
+      "literal": "Một lời nói ra nặng tựa như chín chiếc đỉnh đồng trấn quốc.",
+      "meaning": "Lời nói có trọng lượng cực lớn, có sức thuyết phục và uy tín tuyệt đối được muôn người kính nể.",
+      "culture": "Đại Vũ thời cổ đúc 9 đỉnh đồng tượng trưng cho 9 châu thiên hạ. Ai giữ 9 đỉnh là giữ quyền cai trị đất trời.",
+      "quiz": {
+        "question": "'Cửu đỉnh' trong lịch sử Trung Hoa cổ đại là biểu tượng của điều gì?",
+        "options": ["Vương quyền cai trị 9 châu thiên hạ", "Chín vị thần canh giữ", "Chín ngọn núi cao nhất", "Nồi nấu thuốc trường thọ"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shi-na-jiu-wen",
+      "hanzi": "十拿九稳",
+      "pinyin": "shí ná jiǔ wěn",
+      "hanviet": "Thập nã cửu ổn",
+      "numbers": [9, 10],
+      "primaryNumber": 9,
+      "branchId": "branch_longevity",
+      "chars": [
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười lần"},
+        {"c": "拿", "p": "ná", "hv": "Nã", "m": "Bắt lấy, nắm bắt"},
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín phần"},
+        {"c": "稳", "p": "wěn", "hv": "Ổn", "m": "Chắc chắn, vững vàng"}
+      ],
+      "literal": "Mười lần ra tay nắm bắt thì có tới chín lần thành công chắc chắn.",
+      "meaning": "Khả năng thành công cực kỳ cao, nắm chắc phần thắng trong tay.",
+      "culture": "Sự kết hợp giữa số 10 (chu kỳ trọn vẹn) và số 9 (cận kề tuyệt đối) miêu tả mức độ tin cậy thực tế.",
+      "quiz": {
+        "question": "Thành ngữ tiếng Việt nào đồng nghĩa với 'Thập nã cửu ổn'?",
+        "options": ["Mười phần chắc chín", "Ba chìm bảy nổi", "Trăm phát trăm trúng", "Được ăn cả ngã về không"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "jiu-xiao-yun-wai",
+      "hanzi": "九霄云外",
+      "pinyin": "jiǔ xiāo yún wài",
+      "hanviet": "Cửu tiêu vân ngoại",
+      "numbers": [9],
+      "primaryNumber": 9,
+      "branchId": "branch_infinity",
+      "chars": [
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín tầng"},
+        {"c": "霄", "p": "xiāo", "hv": "Tiêu", "m": "Tầng trời mây"},
+        {"c": "云", "p": "yún", "hv": "Vân", "m": "Đám mây"},
+        {"c": "外", "p": "wài", "hv": "Ngoại", "m": "Bên ngoài, xa xôi"}
+      ],
+      "literal": "Bị ném ra tận bên ngoài chín tầng mây xanh thẳm.",
+      "meaning": "Quên bẵng đi hoàn toàn, quẳng hết âu lo muộn phiền hoặc biến mất không còn dấu vết.",
+      "culture": "Quan niệm Đạo gia: bầu trời có 9 tầng (Cửu trùng thiên), Cửu tiêu là tầng cao nhất xa xăm nhất.",
+      "quiz": {
+        "question": "Khi ai đó quẳng mọi ưu phiền lên 'Cửu tiêu vân ngoại', nghĩa là gì?",
+        "options": ["Quên sạch hết mọi phiền muộn lo âu", "Bay lên vũ trụ", "Ngắm cảnh trời mây", "Làm thơ ca tụng"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "jiu-jiu-gui-yi",
+      "hanzi": "九九归一",
+      "pinyin": "jiǔ jiǔ guī yī",
+      "hanviet": "Cửu cửu quy nhất",
+      "numbers": [9, 1],
+      "primaryNumber": 9,
+      "branchId": "branch_longevity",
+      "chars": [
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Số chín"},
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Lặp lại (81 kiếp nạn)"},
+        {"c": "归", "p": "guī", "hv": "Quy", "m": "Trở về"},
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Cội nguồn ban đầu"}
+      ],
+      "literal": "Chín lần chín trải qua vòng tuần hoàn rồi lại quay về cội nguồn ban đầu.",
+      "meaning": "Sau khi trải qua vô vàn khúc quanh biến cố phức tạp, sự việc cuối cùng vẫn quay về bản chất giản dị vốn có.",
+      "culture": "9x9=81 (như 81 nạn thỉnh kinh Tây Du Ký). Số 9 đạt đỉnh rồi chuyển hóa trở về Số 1 khởi nguyên.",
+      "quiz": {
+        "question": "Số '81 nạn' của thầy trò Đường Tăng gắn liền với triết lý của thành ngữ nào?",
+        "options": ["九九归一 (Cửu cửu quy nhất)", "一目十行", "十全十美", "九死一生"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "han-xiao-jiu-quan",
+      "hanzi": "含笑九泉",
+      "pinyin": "hán xiào jiǔ quán",
+      "hanviet": "Hàm tiếu cửu tuyền",
+      "numbers": [9],
+      "primaryNumber": 9,
+      "branchId": "branch_longevity",
+      "chars": [
+        {"c": "含", "p": "hán", "hv": "Hàm", "m": "Ngậm, mang"},
+        {"c": "笑", "p": "xiào", "hv": "Tiếu", "m": "Nụ cười"},
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín tầng sâu"},
+        {"c": "泉", "p": "quán", "hv": "Tuyền", "m": "Suối vàng (cõi âm)"}
+      ],
+      "literal": "Ngậm nụ cười an lòng nơi chín tầng suối vàng sâu thẳm.",
+      "meaning": "Chết mà mãn nguyện, không còn vương vấn ân hận hay tiếc nuối điều gì nơi cõi trần.",
+      "culture": "Cửu tuyền (chín con suối) là cách người xưa hình dung về thế giới dưới lòng đất sâu thẳm vô cùng.",
+      "quiz": {
+        "question": "'Cửu tuyền' trong quan niệm người xưa chỉ nơi nào?",
+        "options": ["Suối vàng cõi âm, thế giới bên kia", "Chín con suối ở Tây Tạng", "Suối nước nóng chữa bệnh", "Nơi thác nước cao đổ xuống"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "jiu-niu-er-hu-zhi-li",
+      "hanzi": "九牛二虎",
+      "pinyin": "jiǔ niú èr hǔ",
+      "hanviet": "Cửu ngưu nhị hổ",
+      "numbers": [9],
+      "primaryNumber": 9,
+      "branchId": "branch_infinity",
+      "chars": [
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín"},
+        {"c": "牛", "p": "niú", "hv": "Ngưu", "m": "Con trâu"},
+        {"c": "二", "p": "èr", "hv": "Nhị", "m": "Hai"},
+        {"c": "虎", "p": "hǔ", "hv": "Hổ", "m": "Con cọp"}
+      ],
+      "literal": "Dốc sức mạnh tổng hợp của chín con trâu và hai con cọp dữ.",
+      "meaning": "Tốn vô vàn công sức, hao tâm tổn lực ghê gớm mới hoàn thành nổi một công việc khó khăn.",
+      "culture": "Trâu tượng trưng cho sức kéo bền bỉ vô tận, hổ tượng trưng cho sức bộc phá dũng mãnh.",
+      "quiz": {
+        "question": "Thành ngữ 'Cửu ngưu nhị hổ chi lực' ví von điều gì?",
+        "options": ["Sức lực cực lớn bỏ ra để làm việc khó", "Hai con hổ đánh nhau với chín con trâu", "Khen ngợi người nuôi gia súc giỏi", "Trò chơi săn thú cổ xưa"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "san-wan-jiu-zhuan",
+      "hanzi": "三弯九转",
+      "pinyin": "sān wān jiǔ zhuǎn",
+      "hanviet": "Tam loan cửu chuyển",
+      "numbers": [9, 3],
+      "primaryNumber": 9,
+      "branchId": "branch_infinity",
+      "chars": [
+        {"c": "三", "p": "sān", "hv": "Tam", "m": "Ba lần"},
+        {"c": "弯", "p": "wān", "hv": "Loan", "m": "Uốn khúc"},
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín lần"},
+        {"c": "转", "p": "zhuǎn", "hv": "Chuyển", "m": "Đổi chiều, xoay"}
+      ],
+      "literal": "Ba khúc uốn lượn, chín lần chuyển đổi lối đi.",
+      "meaning": "Đường sá quanh co khúc khuỷu, hoặc lời nói vòng vo tam quốc, tình tiết diễn biến phức tạp.",
+      "culture": "Số 3 và số 9 cùng đại diện cho sự lặp lại biến hóa khôn lường.",
+      "quiz": {
+        "question": "'Tam loan cửu chuyển' dùng để hình dung con đường thế nào?",
+        "options": ["Quanh co khúc khuỷu, nhiều ngã rẽ", "Thẳng tắp rộng thênh thang", "Đường cao tốc trên cao", "Đường hầm xuyên núi"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "feng-jiu-chu",
+      "hanzi": "凤九雏",
+      "pinyin": "fèng jiǔ chú",
+      "hanviet": "Phượng cửu sồ",
+      "numbers": [9],
+      "primaryNumber": 9,
+      "branchId": "branch_sovereignty",
+      "chars": [
+        {"c": "凤", "p": "fèng", "hv": "Phượng", "m": "Chim phượng hoàng"},
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín"},
+        {"c": "雏", "p": "chú", "hv": "Sồ", "m": "Chim non, đàn con"}
+      ],
+      "literal": "Phượng hoàng sinh ra chín chim non tài giỏi.",
+      "meaning": "Con cháu tài hoa lỗi lạc, gia tộc dòng dõi vẻ vang thế hệ sau còn tài năng hơn thế hệ trước.",
+      "culture": "Truyền thuyết Phượng sinh cửu chủng: mỗi con mang một hình thái và linh khí phi phàm.",
+      "quiz": {
+        "question": "Thành ngữ 'Phượng cửu sồ' ngụ ý khen ngợi điều gì trong gia tộc?",
+        "options": ["Con cháu đời sau tài năng xuất chúng", "Gia đình có nhiều chim quý", "Gia tộc sống thọ", "Nhà cửa khang trang"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shi-quan-shi-mei",
+      "hanzi": "十全十美",
+      "pinyin": "shí quán shí měi",
+      "hanviet": "Thập toàn thập mỹ",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_perfection",
+      "chars": [
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười phần"},
+        {"c": "全", "p": "quán", "hv": "Toàn", "m": "Đầy đủ trọn vẹn"},
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười phần"},
+        {"c": "美", "p": "měi", "hv": "Mỹ", "m": "Tốt đẹp hoàn hảo"}
+      ],
+      "literal": "Mười phần vẹn toàn, mười phần tốt đẹp xinh tươi.",
+      "meaning": "Hoàn hảo không một tì vết, đạt đến độ lý tưởng cao nhất trên mọi phương diện.",
+      "culture": "Đỉnh cao của quan niệm thẩm mỹ phương Đông: số 10 đại diện cho sự viên mãn tột cùng không thể thêm bớt.",
+      "quiz": {
+        "question": "'Thập toàn thập mỹ' diễn tả điều gì?",
+        "options": ["Sự hoàn hảo không tì vết, vẹn toàn mọi bề", "Mười món đồ ăn ngon", "Mười người phụ nữ đẹp", "Mười năm cố gắng"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shi-e-bu-she",
+      "hanzi": "十恶不赦",
+      "pinyin": "shí è bù shè",
+      "hanviet": "Thập ác bất xá",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_certainty",
+      "chars": [
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười"},
+        {"c": "恶", "p": "è", "hv": "Ác", "m": "Tội ác tày đình"},
+        {"c": "不", "p": "bù", "hv": "Bất", "m": "Không được"},
+        {"c": "赦", "p": "shè", "hv": "Xá", "m": "Ân xá, tha thứ"}
+      ],
+      "literal": "Phạm phải mười tội ác tày trời không bao giờ được tha bổng.",
+      "meaning": "Tội ác cực kỳ nghiêm trọng, suy đồi đạo đức nhân luân, không thể dung thứ.",
+      "culture": "Bộ luật cổ đại thời Tùy - Đường quy định 10 đại tội (mưu phản, bất hiếu, ác nghịch...) dù đại xá thiên hạ cũng không được tha.",
+      "quiz": {
+        "question": "'Thập ác' nguyên gốc là khái niệm trong lĩnh vực nào?",
+        "options": ["Luật hình pháp cổ đại", "Mười căn bệnh nan y", "Mười loài thú dữ", "Mười năm chiến tranh"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shen-qi-shi-zu",
+      "hanzi": "神气十足",
+      "pinyin": "shén qì shí zú",
+      "hanviet": "Thần khí thập túc",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_perfection",
+      "chars": [
+        {"c": "神", "p": "shén", "hv": "Thần", "m": "Tinh thần"},
+        {"c": "气", "p": "qì", "hv": "Khí", "m": "Khí sắc, dáng vẻ"},
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười phần"},
+        {"c": "足", "p": "zú", "hv": "Túc", "m": "Đầy đủ, sung mãn"}
+      ],
+      "literal": "Tinh thần khí sắc tròn đầy mười phần sung mãn.",
+      "meaning": "Dáng vẻ vô cùng tự tin, phấn khởi hăm hở, tràn đầy năng lượng đắc thắng.",
+      "culture": "Mười phần (thập túc) là tỷ lệ đong đo tròn trĩnh nhất, chỉ trạng thái năng lượng đạt đỉnh điểm.",
+      "quiz": {
+        "question": "'Thần khí thập túc' miêu tả dáng vẻ như thế nào?",
+        "options": ["Tràn đầy tự tin, khí thế hăm hở", "Mệt mỏi ủ rũ", "Lo lắng hoang mang", "Lén lút sợ hãi"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shi-shi-jiu-kong",
+      "hanzi": "十室九空",
+      "pinyin": "shí shì jiǔ kōng",
+      "hanviet": "Thập thất cửu không",
+      "numbers": [10, 9],
+      "primaryNumber": 10,
+      "branchId": "branch_certainty",
+      "chars": [
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười"},
+        {"c": "室", "p": "shì", "hv": "Thất", "m": "Ngôi nhà, gian phòng"},
+        {"c": "九", "p": "jiǔ", "hv": "Cửu", "m": "Chín"},
+        {"c": "空", "p": "kōng", "hv": "Không", "m": "Trống rỗng, bỏ hoang"}
+      ],
+      "literal": "Mười ngôi nhà trong xóm làng thì có đến chín nhà bỏ trống.",
+      "meaning": "Cảnh tượng hoang tàn xơ xác sau nạn đói, dịch bệnh hoặc khói lửa chiến tranh triền miên.",
+      "culture": "Sự kết hợp giữa 10 và 9 phản ánh nỗi đau thương mất mát cùng cực của bách tính thời loạn.",
+      "quiz": {
+        "question": "Thành ngữ 'Thập thất cửu không' phản ánh bối cảnh gì?",
+        "options": ["Chiến tranh hoặc thiên tai khiến nhà cửa tan hoang", "Khu đô thị mới xây chưa có người ở", "Mọi người đi lễ hội vắng nhà", "Người dân xây nhà rộng rãi"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shi-nian-shu-mu",
+      "hanzi": "十年树木",
+      "pinyin": "shí nián shù mù",
+      "hanviet": "Thập niên thụ mộc",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_time_depth",
+      "chars": [
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười"},
+        {"c": "年", "p": "nián", "hv": "Niên", "m": "Năm tháng"},
+        {"c": "树", "p": "shù", "hv": "Thụ", "m": "Trồng trọt, vun đắp"},
+        {"c": "木", "p": "mù", "hv": "Mộc", "m": "Cây cối"}
+      ],
+      "literal": "Mười năm trồng cây để lấy gỗ quý (Trăm năm trồng người).",
+      "meaning": "Sự nghiệp giáo dục đào tạo con người cần tầm nhìn xa rộng và sự kiên trì bền bỉ qua nhiều thế hệ.",
+      "culture": "Quản Trọng trong sách 'Quản Tử': 'Kế một năm không gì bằng trồng lúa, kế mười năm không gì bằng trồng cây, kế trăm năm không gì bằng trồng người'.",
+      "quiz": {
+        "question": "Vế đi kèm nổi tiếng với 'Thập niên thụ mộc' là gì?",
+        "options": ["百年树人 (Bách niên thụ nhân - Trăm năm trồng người)", "万事 như ý", "Thiên lý mã", "Nhất lộ bình an"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shi-zhi-lian-xin",
+      "hanzi": "十指连心",
+      "pinyin": "shí zhǐ lián xīn",
+      "hanviet": "Thập chỉ liên tâm",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_time_depth",
+      "chars": [
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười"},
+        {"c": "指", "p": "zhǐ", "hv": "Chỉ", "m": "Ngón tay"},
+        {"c": "连", "p": "lián", "hv": "Liên", "m": "Nối liền thông suốt"},
+        {"c": "心", "p": "xīn", "hv": "Tâm", "m": "Trái tim, ruột gan"}
+      ],
+      "literal": "Mười đầu ngón tay nối liền với mạch máu trái tim.",
+      "meaning": "Mối gắn kết tình thân máu mủ ruột thịt thiêng liêng, nỗi đau của con cái làm thắt lòng cha mẹ.",
+      "culture": "Ngón tay tập trung vô số đầu dây thần kinh cảm giác nhạy bén, đứt một ngón thì đau tận tim gan.",
+      "quiz": {
+        "question": "Thành ngữ 'Thập chỉ liên tâm' thường ví von tình cảm thiêng liêng nào?",
+        "options": ["Tình mẫu tử, phụ tử ruột thịt gắn bó keo sơn", "Tình bạn bè xã giao", "Tình đồng hương", "Tình thầy trò"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "yi-mu-shi-hang",
+      "hanzi": "一目十行",
+      "pinyin": "yī mù shí háng",
+      "hanviet": "Nhất mục thập hàng",
+      "numbers": [10, 1],
+      "primaryNumber": 10,
+      "branchId": "branch_perfection",
+      "chars": [
+        {"c": "一", "p": "yī", "hv": "Nhất", "m": "Một cái liếc mắt"},
+        {"c": "目", "p": "mù", "hv": "Mục", "m": "Ánh mắt"},
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười"},
+        {"c": "行", "p": "háng", "hv": "Hàng", "m": "Hàng chữ, dòng chữ"}
+      ],
+      "literal": "Một ánh mắt lướt qua đọc trọn vẹn mười dòng chữ.",
+      "meaning": "Tốc độ đọc sách và khả năng tiếp thu văn tự siêu phàm, thông minh tuyệt đỉnh.",
+      "culture": "Sách 'Lương Thư' ngợi ca Giản Văn Đế từ nhỏ đã có năng khiếu đọc sách siêu việt một mắt mười hàng.",
+      "quiz": {
+        "question": "'Nhất mục thập hàng' ca ngợi năng lực siêu phàm nào?",
+        "options": ["Đọc sách nhanh và trí nhớ thông minh", "Tập thể dục mắt", "Đếm hàng hóa chính xác", "Khả năng bắn cung trúng đích"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "feng-guang-shi-se",
+      "hanzi": "风光十色",
+      "pinyin": "fēng guāng shí sè",
+      "hanviet": "Phong quang thập sắc",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_perfection",
+      "chars": [
+        {"c": "风", "p": "fēng", "hv": "Phong", "m": "Gió mây"},
+        {"c": "光", "p": "guāng", "hv": "Quang", "m": "Ánh sáng, cảnh sắc"},
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười phần phong phú"},
+        {"c": "色", "p": "sè", "hv": "Sắc", "m": "Màu sắc, vẻ đẹp"}
+      ],
+      "literal": "Cảnh tượng non nước tỏa ra muôn ngàn sắc thái phong phú rực rỡ.",
+      "meaning": "Cảnh vật thiên nhiên muôn màu muôn vẻ, vô cùng diễm lệ hữu tình.",
+      "culture": "Số 10 đại diện cho sự đa dạng cực điểm, phối hợp cùng cảnh trí đất trời.",
+      "quiz": {
+        "question": "'Phong quang thập sắc' dùng để ngợi ca điều gì?",
+        "options": ["Cảnh sắc thiên nhiên phong phú rực rỡ", "Đèn lồng phố cổ", "Lễ hội hoa đăng", "Trang phục biểu diễn"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "sheng-jia-shi-bei",
+      "hanzi": "声价十倍",
+      "pinyin": "shēng jià shí bèi",
+      "hanviet": "Thanh giá thập bội",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_certainty",
+      "chars": [
+        {"c": "声", "p": "shēng", "hv": "Thanh", "m": "Danh tiếng"},
+        {"c": "价", "p": "jià", "hv": "Giá", "m": "Giá trị"},
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười"},
+        {"c": "倍", "p": "bèi", "hv": "Bội", "m": "Lần (gấp bội)"}
+      ],
+      "literal": "Danh tiếng và giá trị con người tăng vọt lên gấp mười lần.",
+      "meaning": "Sau khi được nhân vật có uy tín khen ngợi đề bạt, danh giá lập tức được xã hội nể trọng gấp bội.",
+      "culture": "Điển tích Bá Lạc xem ngựa: con ngựa gầy kéo xe muối khi được Bá Lạc vỗ về ngắm nhìn, giá trị của nó lập tức tăng vọt gấp mười.",
+      "quiz": {
+        "question": "Thành ngữ 'Thanh giá thập bội' ví với việc gì?",
+        "options": ["Uy tín và giá trị tăng vọt nhờ được bậc tiền bối khẳng định", "Giá vàng tăng gấp mười", "Mua bán đấu giá cổ vật", "Hát to gấp mười lần"],
+        "answerIndex": 0
+      }
+    },
+    {
+      "id": "shi-nian-han-chuang",
+      "hanzi": "十年寒窗",
+      "pinyin": "shí nián hán chuāng",
+      "hanviet": "Thập niên hàn song",
+      "numbers": [10],
+      "primaryNumber": 10,
+      "branchId": "branch_time_depth",
+      "chars": [
+        {"c": "十", "p": "shí", "hv": "Thập", "m": "Mười"},
+        {"c": "年", "p": "nián", "hv": "Niên", "m": "Năm tháng"},
+        {"c": "寒", "p": "hán", "hv": "Hàn", "m": "Lạnh lẽo gian nan"},
+        {"c": "窗", "p": "chuāng", "hv": "Song", "m": "Khung cửa sổ phòng học"}
+      ],
+      "literal": "Mười năm ròng rã khổ luyện đèn sách bên khung cửa sổ lạnh lẽo.",
+      "meaning": "Sự bền bỉ kiên trì học tập qua năm dài tháng rộng để chờ ngày đỗ đạt vinh quy bái tổ.",
+      "culture": "Biểu tượng cho tinh thần hiếu học vượt khó của sĩ tử phương Đông trong chế độ khoa cử ngàn năm.",
+      "quiz": {
+        "question": "'Thập niên hàn song' ca ngợi đức tính nào?",
+        "options": ["Kiên trì khổ luyện học tập vượt khó", "Chịu đựng thời tiết mùa đông", "Xây nhà nhiều cửa sổ", "Đi du học xa nhà"],
+        "answerIndex": 0
+      }
+    }
+  ]
+}
